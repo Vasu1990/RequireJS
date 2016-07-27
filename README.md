@@ -10,7 +10,9 @@ furthure clicking on the button on about us page a template and it's assocaited 
 To run the application type
 
 bower install
+
 npm install
+
 gulp serve
 
 the application is configured to run only in dev env not in prod 
