@@ -10,7 +10,7 @@ require.config({
     paths: {
         jquery: '../../../bower_components/jquery/dist/jquery',
         underscore: '../../../bower_components/underscore/underscore',
-        text: '../../../bower_components/text/text'
+        text: '../scripts/lib/text'
     },
     shim: {
         about : {

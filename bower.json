@@ -1,11 +1,12 @@
 {
-  "name": "requirepoc",
+  "name": "reqnirepoc",
   "private": true,
   "dependencies": {
     "bootstrap-sass": "~3.3.5",
     "modernizr": "~2.8.1",
     "requirejs": "^2.2.0",
-    "jQuery": "^3.1.0"
+    "jQuery": "^3.1.0",
+    "underscore": "^1.8.3"
   },
   "overrides": {
     "bootstrap-sass": {
